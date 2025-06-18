@@ -16,3 +16,23 @@ Install with:
 
 ```bash
 pip install -r requirements.txt
+
+## ⚖️ License
+
+Licensed under the [MIT License](LICENSE)
+
+---
+
+## ⚠️ Disclaimer
+
+> 🛡️ This project is intended **only for educational and authorized penetration testing**. Unauthorized access or attack on networks you do not own or have explicit permission to test is **illegal**. Use responsibly.
+
+---
+
+## 👤 Author
+
+Created with ❤️ by [Anonymoussxb]
+
+---
+
+
