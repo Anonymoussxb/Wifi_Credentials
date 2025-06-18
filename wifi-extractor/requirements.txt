@@ -1,0 +1,9 @@
+colorama
+prettytable
+python-dotenv
+subprocess 
+re 
+smtplib
+os
+MIMEText
+MIMEMultipart
