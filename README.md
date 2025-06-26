@@ -1,3 +1,9 @@
+![Python](https://img.shields.io/badge/Python-3.6+-blue?logo=python)
+![License](https://img.shields.io/badge/License-MIT-green?logo=opensourceinitiative)
+![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-lightgrey?logo=windows)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen?logo=github)
+
+
 # 📶 Wi-Fi Credential Extractor with HTML Email
 
 This Python script extracts all saved Wi-Fi profiles and their passwords on a Windows system, formats them in a beautiful table, and sends the results via **HTML email**.
